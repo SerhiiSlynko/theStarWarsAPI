@@ -2,4 +2,4 @@
 
 my next java script project, you can take a look for yourself:
 
-https://serhiislynko.github.io/The-Star-Wars-API/
+ https://serhiislynko.github.io/theStarWarsAPI/
